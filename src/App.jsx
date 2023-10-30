@@ -1,6 +1,6 @@
 import './App.css'
 
-import Header from './assets/components/header'
+import Header from './assets/components/Header'
 import Footer from './assets/components/Footer'
 import Job from './assets/components/Job'
 
