@@ -6,47 +6,58 @@ return (
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
-        city="Sydney"/>
+        city="Sydney"
+        className="red"/>
+        
         <Job 
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
-        city="Sydney"/>
+        city="Sydney"
+        className="green"/>
+        
         <Job 
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
-        city="Sydney"/>
+        city="Sydney"
+        className="yellow"/>
         <Job 
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
-        city="Sydney"/>
+        city="Sydney"
+        className="blue"/>
         <Job 
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
-        city="Sydney"/>
+        city="Sydney"
+        className="pink"/>
         <Job 
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
-        city="Sydney"/>
+        city="Sydney"
+        className="red"/>
         <Job 
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
-        city="Sydney"/>
+        city="Sydney"
+        className="green"/>
         <Job 
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
-        city="Sydney"/>
+        city="Sydney"
+        className="yellow"/>
         <Job 
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
-        city="Sydney"/>
+        city="Sydney"
+        className="blue"/>
     </main>
 )
 }

@@ -32,63 +32,41 @@ h2 {
   font-size: 30px;
   font-weight: bold;
 }
-
+article{
+  height: 210px;
+  width: 210px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 20px;
+  padding: 20px 10px;
+}
 
 /* JOB */
 
 .red {
   border: 5px solid red;
-  height: 210px;
-  width: 210px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  margin: 20px;
-  padding: 20px 10px;
+  
 }
 
 .yellow {
   border: 5px solid yellow;
-  height: 210px;
-  width: 210px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  margin: 20px;
-  padding: 20px 10px;
+  
 }
 
 .pink {
   border: 5px solid pink;
-  height: 210px;
-  width: 210px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  margin: 20px;
-  padding: 20px 10px;
+ 
 }
 
 .green {
   border: 5px solid green;
-  height: 210px;
-  width: 210px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  margin: 20px;
-  padding: 20px 10px;
+
 }
 
 .blue {
   border: 5px solid blue;
-  height: 210px;
-  width: 210px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  margin: 20px;
-  padding: 20px 10px;
+  
 }
 
 
